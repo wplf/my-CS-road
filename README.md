@@ -3,31 +3,25 @@
 Here is the document of my self-study road to Computer Science.
 Hope to help you with the endless time.
 
-- [x] CS61c
+## The open source classes I have taken and to be taken
 
-``` plain
-Great Ideas in Computer Architecture
-```
+- [x] CS61c, this class is to introduce the computer system.
+- [x] CS161, this class is to introduce the computer security.
+- [x] MIT s6.031, this class is to introduce the software construction.
+- [x] MIT 6.5940, this class is to introduce the efficient deep learning.
+- [x] MIT Missing semester, this class is to introduce the tools that will never be taught in class but will be very useful.
+- [x] Dive into deep learning, this class is to introduce the deep learning and machine learning.
+- [x] deeplearning-ai, this class is to introduce the deep learning and machine learning.
 
-- [ ] CS161
+## The project I have done and to be done
 
-``` plain
-Computer Security
+- [x] Relation extraction with BERT
+- [x] Name entity recognition with BERT
+- [x] The object kinetic Monte Carlo simulation
+- [x] The program of canonical Huffman compression
+- [ ] Tinyflow, which is to implement the deep learning framework, written by tianqi.
 
-```
-  
-- [x] Missing semester
+## Other millstones about CS
 
-- [x] MIT 6.031
-
-``` plain
-Software Construction
-
-```
-
-- [x] MIT 6.5940
-
-``` plain
-TinyML and Efficient Deep Learning Computing
-
-```
+- [x] LeetCode knight
+- [ ] LeetCode guardian.
