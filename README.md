@@ -6,7 +6,7 @@ Hope to help you with the endless time.
 ## The open source classes I have taken and to be taken
 
 - [x] CS61c, this class is to introduce the computer system.
-- [x] CS161, this class is to introduce the computer security, my implementation is in [cs-161-sp24](git@github.com:wplf/cs161-sp24.git).
+- [x] CS161, this class is to introduce the computer security, my implementation is in [cs-161-sp24](https://github.com/wplf/cs161-sp24).
   - The project 1, which is about exploiting the C program vulnerabilities using gdb.
   - The project 2, which is about the encrypted system using Go. It is really a heavy project, and I haved started it.
 - [x] MIT s6.031, this class is to introduce the software construction.
