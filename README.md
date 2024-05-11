@@ -12,8 +12,11 @@ Hope to help you with the endless time.
 - [x] MIT s6.031, this class is to introduce the software construction.
 - [x] MIT 6.5940, this class is to introduce the efficient deep learning.
 - [x] MIT Missing semester, this class is to introduce the tools that will never be taught in class but will be very useful.
+- [x] CMU 10-714, Deep learning system. The class will lead to build your own dlsys needle (NEcessary Element of Deep LEarning system). 
+  - Needle supports training and inference with CUDA backend, cpu backend and numpy backend.  
 - [x] Dive into deep learning, this class is to introduce the deep learning and machine learning.
 - [x] deeplearning-ai, this class is to introduce the deep learning and machine learning.
+
 
 ## The project I have done and to be done
 
