@@ -5,17 +5,18 @@ Hope to help you with the endless time.
 
 ## The open source classes I have taken and to be taken
 
-- [x] CS61c, this class is to introduce the computer system.
-- [x] CS161, this class is to introduce the computer security, my implementation is in [cs-161-sp24](https://github.com/wplf/cs161-sp24).
+- [x] [CS61c](https://github.com/wplf/cs61c-2020summer), this class is to introduce the computer system.
+- [x] [CS161](https://github.com/wplf/cs161-sp24), this class is to introduce the computer security.
   - The project 1, which is about exploiting the C program vulnerabilities using gdb.
   - The project 2, which is about the encrypted system using Go. It is really a heavy project, and I haved started it.
-- [x] MIT s6.031, this class is to introduce the software construction.
-- [x] MIT 6.5940, this class is to introduce the efficient deep learning.
-- [x] MIT Missing semester, this class is to introduce the tools that will never be taught in class but will be very useful.
-- [x] CMU 10-714, Deep learning system. The class will lead to build your own dlsys needle (NEcessary Element of Deep LEarning system). 
+- [x] [MIT 6.5940](https://github.com/wplf/MIT_6.5940), this class is to introduce the efficient deep learning.
+- [x] [CMU 10-714](https://github.com/wplf/CMU-Deep-Learning-Systems), Deep learning system. The class will lead to build your own dlsys needle (NEcessary Element of Deep LEarning system). 
   - Needle supports training and inference with CUDA backend, cpu backend and numpy backend.  
 - [x] Dive into deep learning, this class is to introduce the deep learning and machine learning.
 - [x] deeplearning-ai, this class is to introduce the deep learning and machine learning.
+- [x] MIT s6.031, this class is to introduce the software construction.
+- [x] MIT Missing semester, this class is to introduce the tools that will never be taught in class but will be very useful.
+
 
 
 ## The project I have done and to be done
@@ -25,6 +26,7 @@ Hope to help you with the endless time.
 - [x] The object kinetic Monte Carlo simulation
 - [x] The program of canonical Huffman compression
 - [ ] Tinyflow, which is to implement the deep learning framework, written by tianqi.
+      [UPDATE], this class is covered in CMU 10-714. I will put tinyflow aside. 
 
 ## Other millstones about CS
 
