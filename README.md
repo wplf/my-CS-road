@@ -1,7 +1,7 @@
 # my-CS-road
 
 Here is the document of my self-study road to Computer Science.
-Hope to help you with the endless time.
+Hope my road can shed little light to you.
 
 ## The open source classes I have taken and to be taken
 
